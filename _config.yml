@@ -1,7 +1,7 @@
 name: HMM-364-Purple-Foxes
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.96812
+typography_spectrum: 1
 title: "Swifty's Side Project"
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#452660'
     - '#baaca0'
   brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.25
+  lightness: 0.1875
+  saturation: 0.1875
   rhythmicContrast: 1
 purpose: []
