@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A Little Project from HMM-364.org]]></title>
-        <description><![CDATA[A Little Project from HMM-364.org]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Swifty's Side Project]]></title>
+        <description><![CDATA[Swifty's Side Project]]></description>
+        <link>https://thegrid.ai/hmm-364-purple-foxes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 03:17:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 03:43:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hmm-364-purple-foxes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Final Phrog]]></title>
+            <description><![CDATA[<article><h1>Final Phrog</h1><p>The Last Official Flight...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f81f3b73b265aeaaf859949cc5151bb53771a227.jpg"></article>]]></description>
+            <link>http://www.hmm-364.org/2015/Phrog-Farewell/CH46FinalFlightTribute.html</link>
+            <guid isPermaLink="false">0e979b77-c486-40a7-b0f2-b673fb01f069</guid>
+            <pubDate>Wed, 02 Mar 2016 03:42:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/caff5f20-dc03-443f-98f8-c59bccdeedd6.jpg">]]></description>
-            <link>undefined8be91f66-cad5-4d1b-9f7b-ede42e98e6cb/index.html</link>
+            <link>https://thegrid.ai/hmm-364-purple-foxes/8be91f66-cad5-4d1b-9f7b-ede42e98e6cb/index.html</link>
             <guid isPermaLink="false">8be91f66-cad5-4d1b-9f7b-ede42e98e6cb</guid>
             <pubDate>Wed, 02 Mar 2016 03:17:41 GMT</pubDate>
         </item>
