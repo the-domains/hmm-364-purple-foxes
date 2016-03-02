@@ -1,0 +1,28 @@
+name: HMM-364-Purple-Foxes
+favicon: null
+layout_spectrum: 0.5697062476538122
+typography_spectrum: 0.27357665123417974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19170860527083278
+  lightness: 0.9403462773188949
+  saturation: 0.8521765291225165
+  rhythmicContrast: 0.016697614220902324
+purpose: []
